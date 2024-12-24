@@ -25,7 +25,7 @@ const points = [
     "title": "Primeira Conversa Sobre Família",
     "description": "Aquele dia na minha casa foi inesquecível! Eu tava tão nervoso que parecia até um adolescente falando sobre família como se fosse um trabalho de escola. Mas você foi incrível, me ouviu, riu das minhas histórias e ainda compartilhou coisas tão bonitas sobre a sua vida. Eu percebi ali que você era a pessoa mais especial que já conheci. ❤️",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/2.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/2.jpeg",
     "gift": "Um jantar só nós dois, pra relembrar como tudo começou.",
     "coordinates": [-47.3505161, -22.7183844]
   },
@@ -49,7 +49,7 @@ const points = [
     "title": "A Casa que Não Deu Certo",
     "description": "Quando fomos olhar aquela casa e percebemos que não ia rolar, eu lembro só de querer resolver tudo pra você e o Luca. Eu já sabia que você era o meu lugar no mundo, e que fazer você feliz era a coisa mais importante.",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/1.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/1.jpeg",
     "gift": "",
     "coordinates": [-47.33706214498533, -22.740456982840726]
   },
@@ -57,7 +57,7 @@ const points = [
     "title": "Conhecendo Seu Irmão",
     "description": "Aquele dia em que você me levou para conhecer seu irmão e eu levei cerveja. Vocês armando esquema para o Rafa conversar comigo, fingindo que iam levar o lixo... Achei que estava em um reality show, mas era só o amor conspirando.",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/9.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/9.jpeg",
     "gift": "Mais momentos em família com risadas e cerveja gelada!",
     "coordinates": [-47.373345105762276, -22.749537861029815]
   },
@@ -65,7 +65,7 @@ const points = [
     "title": "O Dia da Mudança (A casa que deu certo)",
     "description": "Aquele dia foi especial, mesmo com caixas pra lá e pra cá e a bagunça da mudança. Parecia que estávamos oficialmente construindo algo juntos, mesmo sem termos dado 'nome' pra isso. Eu sabia que queria estar ao seu lado pra sempre. ❤️",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/3.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/3.jpeg",
     "gift": "Uma noite no sofá assistindo um filme com vinho (ou cerveja).",
     "coordinates": [-47.33963427196816, -22.76240448753865]
   },
@@ -73,7 +73,7 @@ const points = [
     "title": "Primeira Vez no Hopi Hari",
     "description": "A primeira vez que fomos ao Hopi Hari foi uma experiência tão legal! Eu percebi o quanto você se entregou à diversão (chopp de vinho), e como isso me contagiou. Foi um dia de muitas risadas. Eu nunca imaginei que o parque fosse ser tão divertido até estar ao seu lado. 🎢❤️",
     "contentType": "carousel",
-    "content": ["https://clebervasc.github.io/merry-christmas-vitoria/4.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/5.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/6.jpeg"],
+    "content": ["https://clebervasc.github.io/merry-christmas-vitoria/points/4.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/5.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/6.jpeg"],
     "gift": "um retorno ao Hopi Hari para reviver esse dia incrível.",
     "coordinates": [-47.00766654497832, -23.097043996199865]
   },
@@ -81,7 +81,7 @@ const points = [
     "title": "O Pedido de Namoro",
     "description": "Eu criei uma história sobre o nosso futuro, mas na verdade eu só queria construir ele com você. E aquele jantar foi só o acompanhamento perfeito pra uma das noites mais especiais da minha vida. ❤️🐟",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/7.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/7.jpeg",
     "gift": "Um jantar especial com o mesmo salmão e muito amor.",
     "coordinates": [-47.3373204873127, -22.744006293414934]
   },
@@ -89,7 +89,7 @@ const points = [
     "title": "Primeira Vez",
     "description": "Esperei, porque sabia que valia cada segundo. Quando finalmente aconteceu, foi como se o mundo inteiro sumisse e só restasse você. Não foi só incrível, foi perfeito, porque foi com você. ❤️🔥",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/8.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/8.jpeg",
     "gift": "Um dia de spa em casa, pra cuidar de você como você merece.",
     "coordinates": [-47.3397681566907, -22.76254690816709]
   },
@@ -97,7 +97,7 @@ const points = [
     "title": "Conhecendo Sua Avó",
     "description": "O dia que você me levou para conhecer sua avó foi uma das primeiras vezes em que realmente senti que estava me tornando parte da sua vida. Foi um momento muito importante para mim, porque mostrou o quanto você me via como alguém significativo. ❤️🤏🏻",
     "contentType": "carousel",
-    "content": ["https://clebervasc.github.io/merry-christmas-vitoria/10.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/11.jpeg"],
+    "content": ["https://clebervasc.github.io/merry-christmas-vitoria/points/10.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/11.jpeg"],
     "gift": "um dia com a vó lia <3",
     "coordinates": [-46.493119144968986, -23.565996029814258]
   },
@@ -105,7 +105,7 @@ const points = [
     "title": "Primeira Vez na Praia",
     "description": "Lembro da brisa do mar, do sol brilhando e de como você parecia mais linda do que nunca. Aquele dia foi perfeito, porque estava ao seu lado. 🌊☀️",
     contentType: "carousel",
-    content: ["https://clebervasc.github.io/merry-christmas-vitoria/12.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/13.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/14.jpeg"],
+    content: ["https://clebervasc.github.io/merry-christmas-vitoria/points/12.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/13.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/14.jpeg"],
     "gift": "Um final de semana no litoral só pra gente.",
     "coordinates": [-46.25837212034867, -23.998392733514162]
   },
@@ -129,7 +129,7 @@ const points = [
     "title": "Um Mês na Casa Nova",
     "description": "Lembro como se fosse ontem: a gente sentou pra tomar cerveja e comemorar um mês na sua nova casa. Foi simples, mas tão especial. Um dia normal que ficou mágico só porque você estava nele. 🍻❤️",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/15.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/15.jpeg",
     "gift": "Um brinde com cervejas especiais pra lembrar daquele dia.",
     "coordinates": [-47.340297787377914, -22.762286988267626]
   },
@@ -137,7 +137,7 @@ const points = [
     "title": "Um Mês de namoro",
     "description": "Quem diria, completamos um mês de namoro e você decidiu fazer uma 'comidinha' pra gente, foi a melhor carne que eu já tinha comido, o melhor vinho que bebi e o sentimento de estar apaixonado por você só aumentava! Parece que faz tempo, né? Foi nesse dia que começado a escrever as cartas mensais",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/22.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/22.jpeg",
     "gift": "Um jantar feito por você!",
     "coordinates": [-47.340297787377914, -22.762286988267626]
   },
@@ -145,7 +145,7 @@ const points = [
     "title": "Seu Cuidado Quando Eu Tive Dengue",
     "description": "Eu na pior fase, e você lá, cuidando de mim como se fosse a coisa mais natural do mundo. Não era só dengue que você curava... Era meu coração que você preenchia de amor. ❤️",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/24.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/24.jpeg",
     "gift": "Uma viagem só nossa, pra cuidar de nós dois.",
     "coordinates": [-47.329336673821146, -22.746468491540234]
   },
@@ -153,7 +153,7 @@ const points = [
     "title": "Visitando o Local do Nosso Casamento",
     "description": "O dia em que visitamos o lugar do nosso casamento... Nem noivos ainda, mas nossos olhares já diziam 'é aqui que nossa história vai brilhar'. Foi mágico, foi nós. 💍❤️",
     contentType: "carousel",
-    content: ["https://clebervasc.github.io/merry-christmas-vitoria/16.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/17.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/18.jpeg"],
+    content: ["https://clebervasc.github.io/merry-christmas-vitoria/points/16.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/17.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/18.jpeg"],
     "gift": "Um passeio de volta ao nosso lugar especial para reviver aquele momento.",
     "coordinates": [-46.54691123148179, -23.349047122755692]
   },
@@ -161,7 +161,7 @@ const points = [
     "title": "O Pedido de Casamento",
     "description": "Eu, pelado, fingindo que caí. Você, sem acreditar no que estava acontecendo. Foi doido, foi engraçado, foi a gente. E você disse 'sim'! 💍😂❤️",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/23.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/23.jpeg",
     "gift": "Um dia para reviver o pedido, mas sem tombos dessa vez. 😜",
     "coordinates": [-47.35051542012014, -22.7186169565765]
   },
@@ -169,7 +169,7 @@ const points = [
     "title": "Seu Aniversário na Praia",
     "description": "Eu só queria que o seu aniversário fosse perfeito... E foi. A praia, o sol, você sorrindo. Tudo que eu precisava estava ali: você e o mar dizendo 'parabéns' junto comigo. 🌊🎉❤️",
     contentType: "carousel",
-    content: ["https://clebervasc.github.io/merry-christmas-vitoria/19.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/20.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/21.jpeg"],
+    content: ["https://clebervasc.github.io/merry-christmas-vitoria/points/19.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/20.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/21.jpeg"],
     "gift": "Outro aniversário inesquecível, com vista para o mar e muito amor.",
     "coordinates": [-46.260501545854545, -23.997319771547126]
   },
@@ -185,7 +185,7 @@ const points = [
     "title": "Mudança Para Nossa Casa",
     "description": "O dia da mudança... com meu pai, caixas e muita risada. Foi bagunçado, foi cansativo, mas foi o começo do nosso lar, cheio de amor e histórias pra contar. 🚛❤️",
     contentType: "carousel",
-    content: ["https://clebervasc.github.io/merry-christmas-vitoria/25.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/26.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/27.jpeg"],
+    content: ["https://clebervasc.github.io/merry-christmas-vitoria/points/25.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/26.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/27.jpeg"],
     "gift": "Uma noite só nossa, celebrando tudo que construímos juntos.",
     "coordinates": [-47.288150172075085, -22.702830890197315]
   },
@@ -193,7 +193,7 @@ const points = [
     "title": "Vistando Holambra",
     "description": "Você entediada tomou uma das melhores decisões que poderia ter: visitar holambra haha foi um dia muito gostoso, passeamos, conhecemos a história da cidade, tomamos aquele sorvete bizarro de desinfetante, mas foi ali que prendemos com um cadeado nosso amor para sempre!",
     contentType: "carousel",
-    content: ["https://clebervasc.github.io/merry-christmas-vitoria/29.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/30.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/31.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/32.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/33.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/34.jpeg"],
+    content: ["https://clebervasc.github.io/merry-christmas-vitoria/points/29.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/30.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/31.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/32.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/33.jpeg", "https://clebervasc.github.io/merry-christmas-vitoria/points/34.jpeg"],
     "gift": "Uma visita ao Moinho Povos Unidos de Holambra",
     "coordinates": [-47.0586483584791, -22.627578608014268]
   },
@@ -201,7 +201,7 @@ const points = [
     "title": "Primeiro Natal Juntos",
     "description": "Você e sua animação com o Natal... Contagiou até meu Grinch interior! Nunca pensei que fosse gostar tanto dessa época, mas com você tudo é mágico. 🎄❤️",
     "contentType": "image",
-    "content": "https://clebervasc.github.io/merry-christmas-vitoria/28.jpeg",
+    "content": "https://clebervasc.github.io/merry-christmas-vitoria/points/28.jpeg",
     "gift": "Um Natal ainda mais especial, do jeitinho que você merece.",
     "coordinates": [-47.28796139708651, -22.70259986526177]
   }
