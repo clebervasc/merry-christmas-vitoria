@@ -21,7 +21,7 @@ const Home = () => {
         história.
       </Typography>
 
-      <embed src="/sapiens.svg" alt="vitoria" type="image/svg+xml" className="vitoria"/>
+      <embed src="https://clebervasc.github.io/merry-christmas-vitoria/sapiens.svg" alt="vitoria" type="image/svg+xml" className="vitoria" />
 
       <Button
         variant="contained"
