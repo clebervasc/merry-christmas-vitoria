@@ -27,7 +27,7 @@ const Modal = ({ open, onClose, point }) => {
           <img
             src={point.content}
             alt={point.title}
-            style={{ width: "100%" }}
+            style={{ width: "100%", objectFit: 'cover', height: '350px' }}
           />
         );
       case "carousel":
@@ -38,7 +38,7 @@ const Modal = ({ open, onClose, point }) => {
                 key={index}
                 src={img}
                 alt={`Slide ${index}`}
-                style={{ width: "100%" }}
+                style={{ width: "100%", objectFit: 'cover', height: '350px' }}
               />
             ))}
           </Carousel>
@@ -52,19 +52,28 @@ const Modal = ({ open, onClose, point }) => {
   return (
     <Dialog open={open} onClose={onClose}>
       <DialogTitle align="center">{point.title}</DialogTitle>
-      <DialogContent>{renderContent()}</DialogContent>
+      {
+        point.content !== "" && (
+          <DialogContent>{renderContent()}</DialogContent>
+        )
+      }
       <DialogContent>
         <Typography>{point.description}</Typography>
       </DialogContent>
       <DialogActions>
         <Button onClick={onClose}>Fechar</Button>
-        <Button
-          onClick={sendWhatsAppMessage}
-          color="primary"
-          variant="contained"
-        >
-          Resgatar
-        </Button>
+        {
+          point.gift !== "" && (
+            <Button
+              onClick={sendWhatsAppMessage}
+              color="primary"
+              variant="contained"
+            >
+              Resgatar
+            </Button>
+          )
+        }
+
       </DialogActions>
     </Dialog>
   );
