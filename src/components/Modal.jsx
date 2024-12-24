@@ -13,7 +13,7 @@ import PropTypes from "prop-types";
 const Modal = ({ open, onClose, point }) => {
   const sendWhatsAppMessage = () => {
     const message = `Eu ganhei ${point.gift} no mapa dos momentos! ❤️`;
-    const phoneNumber = "55XXXXXXXXXX";
+    const phoneNumber = "5511965724813";
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
       message
     )}`;
